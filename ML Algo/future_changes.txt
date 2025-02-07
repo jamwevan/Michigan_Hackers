@@ -1,2 +1,5 @@
-Do Tuning for the tests 
-Separate the pulling code and testing code into two separate py files. 
+- Do Tuning for the tests 
+- Separate the pulling code and testing code into two separate py files. 
+- In the separate tuning file test different p values by seeing the different lists of pairs that they make
+- Find the highest p value that does not include a bad pair
+- Document your process in a latex document called journal
